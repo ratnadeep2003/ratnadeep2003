@@ -1,33 +1,32 @@
 # Hey, I'm Ratnadeep 👋
 
 B.Tech graduate (ECE) from KIT College of Engineering.
-Currently building full-stack projects and sharpening DSA skills.
+Full-stack developer, currently working as an App Developer (Flutter) at Mechatronics System Pvt Ltd, alongside a remote Full Stack internship at iGap Technologies.
 Looking for SDE roles at product-based companies and startups.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C++, Java, JavaScript
-- **Frontend:** React.js, HTML, CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, VS Code, Postman
+- **Languages:** JavaScript, TypeScript, Dart, C, C++, Java
+- **Frontend:** React.js, Next.js, Flutter
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, MySQL, PostgreSQL
+- **Tools & Platforms:** Git, GitHub, Docker, Prisma, Supabase, Postman, VS Code
 
 ---
 
-## 🔨 Currently Building
-- AI Research Paper Podcast Tool — upload a paper, get conversational audio
-- Full-stack MERN projects
+## 🚀 Featured Projects
+- **[Purplexity](https://github.com/ratnadeep2003/purplexity)** — Perplexity-style AI search engine with streaming answers, cited sources, and threaded follow-ups (React.js, Express.js, Prisma, Supabase, Gemini API)
+- **[Terminal-Based Coding Agent](https://github.com/ratnadeep2003/terminal-based-coding-agent)** — Terminal AI agent that reads, writes, updates, and deletes code files from natural language instructions (Node.js, Gemini API)
 
 ---
 
 ## 📚 Currently Learning
-- MERN Stack (Harkirat's 0-100 Cohort)
-- DSA in Java
-- Backend systems & distributed systems
+- DSA in Java (NeetCode 150 + CSES), working toward FAANG interview readiness
+- Backend & distributed systems fundamentals
 
 ---
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/ratnadeepabitkar-profile/)
-- 📧 ratnadeepabitkar@gmail.com
+- ratnadeepabitkar@gmail.com
