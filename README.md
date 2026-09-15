@@ -32,5 +32,5 @@ Looking for SDE roles at product-based companies and startups.
 - ratnadeepabitkar@gmail.com
 
 ### 📄 Resume
-[![View PDF](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ratnadeep2003/resume/blob/main/Ratnadeep_Abitkar_Resume.pdf)
+[![View PDF](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ratnadeep2003/resume/blob/main/Ratnadeep_Abitkar_Resume.pdf)
 [![View LaTeX](https://img.shields.io/badge/LaTeX-Source-blue?style=for-the-badge&logo=texlive&logoColor=white)](https://github.com/ratnadeep2003/resume/blob/main/main.tex)
