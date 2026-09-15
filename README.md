@@ -30,3 +30,6 @@ Looking for SDE roles at product-based companies and startups.
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/ratnadeepabitkar-profile/)
 - ratnadeepabitkar@gmail.com
+
+### 📄 Resume
+[![View Resume](https://img.shields.io/badge/Resume-LaTeX_Source-blue?style=for-the-badge&logo=texlive&logoColor=white)](https://github.com/ratnadeep2003/resume/blob/main/main.tex)
